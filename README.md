@@ -121,7 +121,7 @@ pip install -r requirements.txt
 
 ### License
 
-This repository is licensed under the [MIT License](LICENSE) (or whichever license you prefer). See the `LICENSE` file for details.
+This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
