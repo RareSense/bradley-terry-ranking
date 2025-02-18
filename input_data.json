@@ -1,0 +1,416 @@
+{
+    "weights": [
+        "w1",
+        "w2",
+        "w3",
+        "w4",
+        "w5",
+        "w6"
+    ],
+    "inputs": [
+        {
+            "id": "dp1",
+            "input": {
+                "text": "A scenic view of a mountain",
+                "image": "/static/inputs/input1.jpg"
+            }
+        },
+        {
+            "id": "dp2",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input2.jpg"
+            }
+        },
+        {
+            "id": "dp3",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input3.jpg"
+            }
+        },
+        {
+            "id": "dp4",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input4.jpg"
+            }
+        },
+        {
+            "id": "dp5",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input5.jpg"
+            }
+        },
+        {
+            "id": "dp6",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input6.jpg"
+            }
+        },
+        {
+            "id": "dp7",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input7.jpg"
+            }
+        },
+        {
+            "id": "dp8",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input8.jpg"
+            }
+        },
+        {
+            "id": "dp9",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input9.jpg"
+            }
+        },
+        {
+            "id": "dp10",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input10.jpg"
+            }
+        },
+        {
+            "id": "dp11",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input11.jpg"
+            }
+        },
+        {
+            "id": "dp12",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input12.jpg"
+            }
+        },
+        {
+            "id": "dp13",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input13.jpg"
+            }
+        },
+        {
+            "id": "dp14",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input14.jpg"
+            }
+        },
+        {
+            "id": "dp15",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input15.jpg"
+            }
+        },
+        {
+            "id": "dp16",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input16.jpg"
+            }
+        },
+        {
+            "id": "dp17",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input17.jpg"
+            }
+        },
+        {
+            "id": "dp18",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input18.jpg"
+            }
+        },
+        {
+            "id": "dp19",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input19.jpg"
+            }
+        },
+        {
+            "id": "dp20",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input20.jpg"
+            }
+        },
+        {
+            "id": "dp21",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input21.jpg"
+            }
+        },
+        {
+            "id": "dp22",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input22.jpg"
+            }
+        },
+        {
+            "id": "dp23",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input23.jpg"
+            }
+        },
+        {
+            "id": "dp24",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input24.jpg"
+            }
+        },
+        {
+            "id": "dp25",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input25.jpg"
+            }
+        },
+        {
+            "id": "dp26",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input26.jpg"
+            }
+        },
+        {
+            "id": "dp27",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input27.jpg"
+            }
+        },
+        {
+            "id": "dp28",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input28.jpg"
+            }
+        },
+        {
+            "id": "dp29",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input29.jpg"
+            }
+        },
+        {
+            "id": "dp30",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input30.jpg"
+            }
+        }
+    ],
+    "outputs": {
+        "w1": [
+            "/static/w1/dp1_w1.jpg",
+            "/static/w1/dp2_w1.jpg",
+            "/static/w1/dp3_w1.jpg",
+            "/static/w1/dp4_w1.jpg",
+            "/static/w1/dp5_w1.jpg",
+            "/static/w1/dp6_w1.jpg",
+            "/static/w1/dp7_w1.jpg",
+            "/static/w1/dp8_w1.jpg",
+            "/static/w1/dp9_w1.jpg",
+            "/static/w1/dp10_w1.jpg",
+            "/static/w1/dp11_w1.jpg",
+            "/static/w1/dp12_w1.jpg",
+            "/static/w1/dp13_w1.jpg",
+            "/static/w1/dp14_w1.jpg",
+            "/static/w1/dp15_w1.jpg",
+            "/static/w1/dp16_w1.jpg",
+            "/static/w1/dp17_w1.jpg",
+            "/static/w1/dp18_w1.jpg",
+            "/static/w1/dp19_w1.jpg",
+            "/static/w1/dp20_w1.jpg",
+            "/static/w1/dp21_w1.jpg",
+            "/static/w1/dp22_w1.jpg",
+            "/static/w1/dp23_w1.jpg",
+            "/static/w1/dp24_w1.jpg",
+            "/static/w1/dp25_w1.jpg",
+            "/static/w1/dp26_w1.jpg",
+            "/static/w1/dp27_w1.jpg",
+            "/static/w1/dp28_w1.jpg",
+            "/static/w1/dp29_w1.jpg",
+            "/static/w1/dp30_w1.jpg"
+        ],
+        "w2": [
+            "/static/w2/dp1_w2.jpg",
+            "/static/w2/dp2_w2.jpg",
+            "/static/w2/dp3_w2.jpg",
+            "/static/w2/dp4_w2.jpg",
+            "/static/w2/dp5_w2.jpg",
+            "/static/w2/dp6_w2.jpg",
+            "/static/w2/dp7_w2.jpg",
+            "/static/w2/dp8_w2.jpg",
+            "/static/w2/dp9_w2.jpg",
+            "/static/w2/dp10_w2.jpg",
+            "/static/w2/dp11_w2.jpg",
+            "/static/w2/dp12_w2.jpg",
+            "/static/w2/dp13_w2.jpg",
+            "/static/w2/dp14_w2.jpg",
+            "/static/w2/dp15_w2.jpg",
+            "/static/w2/dp16_w2.jpg",
+            "/static/w2/dp17_w2.jpg",
+            "/static/w2/dp18_w2.jpg",
+            "/static/w2/dp19_w2.jpg",
+            "/static/w2/dp20_w2.jpg",
+            "/static/w2/dp21_w2.jpg",
+            "/static/w2/dp22_w2.jpg",
+            "/static/w2/dp23_w2.jpg",
+            "/static/w2/dp24_w2.jpg",
+            "/static/w2/dp25_w2.jpg",
+            "/static/w2/dp26_w2.jpg",
+            "/static/w2/dp27_w2.jpg",
+            "/static/w2/dp28_w2.jpg",
+            "/static/w2/dp29_w2.jpg",
+            "/static/w2/dp30_w2.jpg"
+        ],
+        "w3": [
+            "/static/w3/dp1_w3.jpg",
+            "/static/w3/dp2_w3.jpg",
+            "/static/w3/dp3_w3.jpg",
+            "/static/w3/dp4_w3.jpg",
+            "/static/w3/dp5_w3.jpg",
+            "/static/w3/dp6_w3.jpg",
+            "/static/w3/dp7_w3.jpg",
+            "/static/w3/dp8_w3.jpg",
+            "/static/w3/dp9_w3.jpg",
+            "/static/w3/dp10_w3.jpg",
+            "/static/w3/dp11_w3.jpg",
+            "/static/w3/dp12_w3.jpg",
+            "/static/w3/dp13_w3.jpg",
+            "/static/w3/dp14_w3.jpg",
+            "/static/w3/dp15_w3.jpg",
+            "/static/w3/dp16_w3.jpg",
+            "/static/w3/dp17_w3.jpg",
+            "/static/w3/dp18_w3.jpg",
+            "/static/w3/dp19_w3.jpg",
+            "/static/w3/dp20_w3.jpg",
+            "/static/w3/dp21_w3.jpg",
+            "/static/w3/dp22_w3.jpg",
+            "/static/w3/dp23_w3.jpg",
+            "/static/w3/dp24_w3.jpg",
+            "/static/w3/dp25_w3.jpg",
+            "/static/w3/dp26_w3.jpg",
+            "/static/w3/dp27_w3.jpg",
+            "/static/w3/dp28_w3.jpg",
+            "/static/w3/dp29_w3.jpg",
+            "/static/w3/dp30_w3.jpg"
+        ],
+        "w4": [
+            "/static/w4/dp1_w4.jpg",
+            "/static/w4/dp2_w4.jpg",
+            "/static/w4/dp3_w4.jpg",
+            "/static/w4/dp4_w4.jpg",
+            "/static/w4/dp5_w4.jpg",
+            "/static/w4/dp6_w4.jpg",
+            "/static/w4/dp7_w4.jpg",
+            "/static/w4/dp8_w4.jpg",
+            "/static/w4/dp9_w4.jpg",
+            "/static/w4/dp10_w4.jpg",
+            "/static/w4/dp11_w4.jpg",
+            "/static/w4/dp12_w4.jpg",
+            "/static/w4/dp13_w4.jpg",
+            "/static/w4/dp14_w4.jpg",
+            "/static/w4/dp15_w4.jpg",
+            "/static/w4/dp16_w4.jpg",
+            "/static/w4/dp17_w4.jpg",
+            "/static/w4/dp18_w4.jpg",
+            "/static/w4/dp19_w4.jpg",
+            "/static/w4/dp20_w4.jpg",
+            "/static/w4/dp21_w4.jpg",
+            "/static/w4/dp22_w4.jpg",
+            "/static/w4/dp23_w4.jpg",
+            "/static/w4/dp24_w4.jpg",
+            "/static/w4/dp25_w4.jpg",
+            "/static/w4/dp26_w4.jpg",
+            "/static/w4/dp27_w4.jpg",
+            "/static/w4/dp28_w4.jpg",
+            "/static/w4/dp29_w4.jpg",
+            "/static/w4/dp30_w4.jpg"
+        ],
+        "w5": [
+            "/static/w5/dp1_w5.jpg",
+            "/static/w5/dp2_w5.jpg",
+            "/static/w5/dp3_w5.jpg",
+            "/static/w5/dp4_w5.jpg",
+            "/static/w5/dp5_w5.jpg",
+            "/static/w5/dp6_w5.jpg",
+            "/static/w5/dp7_w5.jpg",
+            "/static/w5/dp8_w5.jpg",
+            "/static/w5/dp9_w5.jpg",
+            "/static/w5/dp10_w5.jpg",
+            "/static/w5/dp11_w5.jpg",
+            "/static/w5/dp12_w5.jpg",
+            "/static/w5/dp13_w5.jpg",
+            "/static/w5/dp14_w5.jpg",
+            "/static/w5/dp15_w5.jpg",
+            "/static/w5/dp16_w5.jpg",
+            "/static/w5/dp17_w5.jpg",
+            "/static/w5/dp18_w5.jpg",
+            "/static/w5/dp19_w5.jpg",
+            "/static/w5/dp20_w5.jpg",
+            "/static/w5/dp21_w5.jpg",
+            "/static/w5/dp22_w5.jpg",
+            "/static/w5/dp23_w5.jpg",
+            "/static/w5/dp24_w5.jpg",
+            "/static/w5/dp25_w5.jpg",
+            "/static/w5/dp26_w5.jpg",
+            "/static/w5/dp27_w5.jpg",
+            "/static/w5/dp28_w5.jpg",
+            "/static/w5/dp29_w5.jpg",
+            "/static/w5/dp30_w5.jpg"
+        ],
+        "w6": [
+            "/static/w6/dp1_w6.jpg",
+            "/static/w6/dp2_w6.jpg",
+            "/static/w6/dp3_w6.jpg",
+            "/static/w6/dp4_w6.jpg",
+            "/static/w6/dp5_w6.jpg",
+            "/static/w6/dp6_w6.jpg",
+            "/static/w6/dp7_w6.jpg",
+            "/static/w6/dp8_w6.jpg",
+            "/static/w6/dp9_w6.jpg",
+            "/static/w6/dp10_w6.jpg",
+            "/static/w6/dp11_w6.jpg",
+            "/static/w6/dp12_w6.jpg",
+            "/static/w6/dp13_w6.jpg",
+            "/static/w6/dp14_w6.jpg",
+            "/static/w6/dp15_w6.jpg",
+            "/static/w6/dp16_w6.jpg",
+            "/static/w6/dp17_w6.jpg",
+            "/static/w6/dp18_w6.jpg",
+            "/static/w6/dp19_w6.jpg",
+            "/static/w6/dp20_w6.jpg",
+            "/static/w6/dp21_w6.jpg",
+            "/static/w6/dp22_w6.jpg",
+            "/static/w6/dp23_w6.jpg",
+            "/static/w6/dp24_w6.jpg",
+            "/static/w6/dp25_w6.jpg",
+            "/static/w6/dp26_w6.jpg",
+            "/static/w6/dp27_w6.jpg",
+            "/static/w6/dp28_w6.jpg",
+            "/static/w6/dp29_w6.jpg",
+            "/static/w6/dp30_w6.jpg"
+        ]
+    }
+}

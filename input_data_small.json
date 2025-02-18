@@ -1,0 +1,32 @@
+{
+    "weights": [
+        "w1",
+        "w2"
+    ],
+    "inputs": [
+        {
+            "id": "dp1",
+            "input": {
+                "text": "A scenic view of a mountain",
+                "image": "/static/inputs/input1.jpg"
+            }
+        },
+        {
+            "id": "dp2",
+            "input": {
+                "text": "A futuristic cityscape",
+                "image": "/static/inputs/input2.jpg"
+            }
+        }
+    ],
+    "outputs": {
+        "w1": [
+            "/static/w1/dp1_w1.jpg",
+            "/static/w1/dp2_w1.jpg"
+        ],
+        "w2": [
+            "/static/w2/dp1_w2.jpg",
+            "/static/w2/dp2_w2.jpg"
+        ]
+    }
+}
