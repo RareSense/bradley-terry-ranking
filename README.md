@@ -66,7 +66,7 @@ pip install -r requirements.txt
    ```
 3. **Install Dependencies**  
    ```bash
-   pip install fastapi uvicorn
+   pip install -r requirements.txt
    ```
 4. **Place Your Images**  
    Make sure you have an `images/` directory (or another static directory) with subfolders for each weight if needed. Your `input_data.json` should point to these image paths (e.g., `/static/w1/dp1_w1.jpg`).
