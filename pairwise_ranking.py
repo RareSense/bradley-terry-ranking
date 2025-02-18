@@ -18,7 +18,7 @@ app = FastAPI()
 data_store_lock = threading.RLock()  # Re-entrant lock for thread safety
 
 # Adjust the path to your images directory:
-images_dir = "/home/hassan/Desktop/pairwise_ranking/images"
+images_dir = "/home/ubuntu/pairwise_ranking/images"
 
 # Mount the static directory at "/static"
 if os.path.isdir(images_dir):
