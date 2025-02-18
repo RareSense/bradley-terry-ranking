@@ -1,0 +1,7 @@
+__pycache__/
+images/
+*.pyc
+*.pyo
+.env
+.venv/
+progress_store.json
